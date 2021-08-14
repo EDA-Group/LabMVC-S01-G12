@@ -1,5 +1,10 @@
 #ISIS1225 - Estructura de un proyecto
 
+DATOS INTEGRANTED DEL GRUPO 12
+- MANUEL FELIPE CARVAJAL PARRA \ m.carvajalp@uniandes.edu.co \ 202014203
+- VALENTINA PEREA MARQUEZ \ v.peream@uniandes.edu.co \ 202013095
+
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.

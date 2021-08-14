@@ -1,8 +1,28 @@
+
+
+                  ___                       ___     
+      ___        /\  \          ___        /\  \    
+     /\  \      /::\  \        /\  \      /::\  \   
+     \:\  \    /:/\ \  \       \:\  \    /:/\ \  \  
+     /::\__\  _\:\~\ \  \      /::\__\  _\:\~\ \  \ 
+  __/:/\/__/ /\ \:\ \ \__\  __/:/\/__/ /\ \:\ \ \__\
+ /\/:/  /    \:\ \:\ \/__/ /\/:/  /    \:\ \:\ \/__/
+ \::/__/      \:\ \:\__\   \::/__/      \:\ \:\__\  
+  \:\__\       \:\/:/  /    \:\__\       \:\/:/  /  
+   \/__/        \::/  /      \/__/        \::/  /   
+                 \/__/                     \/__/    
+
 #ISIS1225 - Estructura de un proyecto
 
-DATOS INTEGRANTED DEL GRUPO 12
+𝔻𝔸𝕋𝕆𝕊 𝔻𝔼 𝕃𝕆𝕊 𝕀ℕ𝕋𝔼𝔾ℝ𝔸ℕ𝕋𝔼𝕊 𝔻𝔼𝕃 𝔾ℝ𝕌ℙ𝕆 𝟙𝟚
+
 - MANUEL FELIPE CARVAJAL PARRA \ m.carvajalp@uniandes.edu.co \ 202014203
+LOGIN UNIANDES:  m.carvajalp
+LOGIN GIT: carvafel
+
 - VALENTINA PEREA MARQUEZ \ v.peream@uniandes.edu.co \ 202013095
+LOGIN UNIANDES: v.peream 
+LOGIN GIT: 202013095
 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.

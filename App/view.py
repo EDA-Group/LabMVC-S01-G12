@@ -31,7 +31,7 @@ assert cf
 
 
 """
-La vista se encarga de la interacción con el usuario
+La vista se encarga de la interacción con el usuario.
 Presenta el menu de opciones  y  por cada seleccion
 se hace la solicitud al controlador para ejecutar la
 operación solicitada
@@ -39,10 +39,10 @@ operación solicitada
 
 
 def printMenu():
-    print("Opciones:")
+    print("𝘖𝘗𝘊𝘐𝘖𝘕𝘌𝘚")
     print("1- Cargar Libros")
     print("2- Cargar Tags")
-    # TODO: Modificaciones para el laboratorio 1.
+    print("3- Cargar Tags de Libros")
     print("0- Salir")
 
 
@@ -59,6 +59,11 @@ def loadTags():
     """
     return controller.loadTags('GoodReads/tags.csv')
 
+def loadBook_Tags():
+    """
+    Carga los tags de los libros
+    """
+    return controller.loadBook_Tags('GoodReads/tags.csv')
 
 """
 Menu principal
@@ -76,7 +81,10 @@ while True:
         tags = loadTags()
         print('Total de tags cargados: ' + str(lt.size(tags)))
 
-    # TODO: Modificaciones para el laboratorio 1.
+    elif int(inputs[0]) == 3:
+        print("Cargando informacion de tags de libros...."
+        book_tags= loadBookTags()
+        print('Total de tags cargados: ' + str(lt.size(book_tags)))
 
     else:
         sys.exit(0)
